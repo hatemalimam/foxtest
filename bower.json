@@ -1,0 +1,16 @@
+{
+  "name": "foxtest",
+  "version": "1.0.0",
+  "homepage": "https://github.com/hatemalimam/foxtest",
+  "authors": [
+    "hatemalimam <me@hatemalimam.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "backbone-amd": "~1",
+    "jquery": "~2",
+    "lodash": "~1",
+    "curl": "~0.8",
+    "backbone.googlemaps": "*"
+  }
+}
